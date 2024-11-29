@@ -129,3 +129,7 @@ Blepto/
 
 ## **Acknowledgments**
 - Inspired by Blinkit, a leading e-commerce platform.
+---
+
+## Screenshots of the webpage
+Please click on the drive link for the screenshots of the website (https://drive.google.com/drive/folders/1rOmHsbeUHXU7WdMv0wxIqi4pK5jnMTIb?usp=sharing)
